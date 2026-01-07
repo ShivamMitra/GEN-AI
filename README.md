@@ -59,9 +59,8 @@ To run notebooks locally:
    jupyter notebook
 
 2. Open either:
-
-- AWS sagemaker.ipynb
-- Blog generation in aws.ipynb
+   - AWS sagemaker.ipynb
+   - Blog generation in aws.ipynb
 
 3. Follow step-by-step cells to run experiments and generate output.
 
