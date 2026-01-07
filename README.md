@@ -8,7 +8,7 @@ This project explores core aspects of generative AI using Python and Jupyter Not
 - AWS SageMaker examples for training and inference
 - Notebook for **Blog Generation with AWS AI models**
 - Reproducible research artifacts
-- MIT licensed for open usage and extension :contentReference[oaicite:1]{index=1}
+- MIT licensed for open usage and extension 
 
 
 ## 📁 Repository Structure
