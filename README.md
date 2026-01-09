@@ -30,7 +30,7 @@ This project explores core aspects of generative AI using Python and Jupyter Not
 | **AWS sagemaker.ipynb**       | Example workflows using AWS SageMaker for model training and inference. |
 | **Blog generation in aws.ipynb** | Notebook that demonstrates content generation using cloud-based generative models. |
 
-These notebooks are designed to be **interactive and reproducible**, helping you explore generative AI tasks in a familiar environment. :contentReference[oaicite:2]{index=2}
+These notebooks are designed to be **interactive and reproducible**, helping you explore generative AI tasks in a familiar environment. 
 
 
 ## 🛠️ Getting Started
